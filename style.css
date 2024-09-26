@@ -1,0 +1,145 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.container {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+.nav {
+    display: flex;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.about, .store {
+    padding: 0px 20px 0px 10px;
+}
+.nav2 {
+    display: flex;
+    /* justify-content: flex-end; */
+    align-items: flex-end;
+    /* border: 1px solid blue; */
+}
+.gmail, .images {
+    padding: 0px 15px 10px 15px;
+
+}
+.img {
+    padding: 2px 5px 0px 5px;
+}
+.button {
+    padding: 5px 5px;
+    padding-right: 5px;
+    margin: 0px 10px;
+    background-color: blue;
+    border: 1px blue;
+    color: white;
+    /* border: none; */
+    border-radius: 80px;
+}
+button:hover {
+    cursor: pointer;
+}
+.google {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 125px;
+}
+.logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1%;
+    border-radius: 80px;
+    border: 2px solid lightgray;
+    width: 50%;
+    height: 50px;
+    /* padding: 10px 100px; */
+    /* border-color: red; */
+    justify-content: center;
+    /* border: none; */
+}
+.searchbar {
+    border: none;
+    outline: none;
+    text-align: start;
+    align-content: start;
+    width: 90%;
+    height: 50px;
+    font-size: 20px;
+    /* border: 1px solid red; */
+}
+.magni {
+width: 25px;
+height: 20%;
+margin-right: 5px;
+display: flex;
+align-items: center;
+}
+.micro {
+    width: 20px;
+    margin-left: 5px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+}
+.dosbuttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    /* padding-top: 20px; */
+}
+.button1 {
+padding: 10px 20px;
+margin: 0px 10px;
+background-color: lightgray;
+border: none;
+font-size: large;
+}
+.lucky {
+padding: 10px 20px;
+margin: 0px 10px;
+background-color: lightgray;
+border: none;
+font-size: large;
+}
+.version {
+    display: flex;
+    justify-content: center;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: lightgray;
+    width: 100%;
+}
+.Norge {
+padding: 10px;
+border-bottom: 1px solid lightslategray;
+color: black;
+}
+.footer1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.Norge a, .footer1 a {
+    font-size: 20px;
+}
+.start a {
+    color: black;
+    padding: 0px 10px 0px 0px;
+}
+.end a {
+    color: black;
+    padding: 0px 10px 0px 0px;
+}
+
