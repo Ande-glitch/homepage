@@ -3,7 +3,7 @@
 <div align="center">
   <h3>
     <a href="https://ande-glitch.github.io/homepage/">
-      Lenken til prosjektet
+      Link to project
     </a>
   </h3>
 </div>
@@ -19,7 +19,7 @@
 
 <!-- OVERVIEW -->
 ## Overview
-Se nederst
+Look beneath
 
 ### Built With
 - [HTML](https://www.w3schools.com/html/)
@@ -29,7 +29,7 @@ Se nederst
 - Google homepage styled
 - Working typearea
 - Non clickable links
-- 
+- Functioning images
 
 ## How To Use
 HTML 
