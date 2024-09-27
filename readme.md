@@ -26,10 +26,10 @@ Se nederst
 - [CSS](https://www.w3schools.com/css/default.asp)
 
 ## Features
-- Lorem ipsum 
-- Lorem ipsum 
-- Lorem ipsum 
-- Lorem ipsum 
+- Google homepage styled
+- Working typearea
+- Non clickable links
+- 
 
 ## How To Use
 HTML 
@@ -45,5 +45,8 @@ CSS
 - GitHub [Ande-Glitch](https://github.com/Ande-glitch)
 - Epost [And Nguyen](mailto:andnguyen24@outlook.com)
 
+## Result
+
+![Image_1](./images/lunch.png)
 
 ## Happy coding!
